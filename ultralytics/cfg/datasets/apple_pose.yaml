@@ -1,0 +1,9 @@
+train: apple/keypointPose/train
+val: apple/keypointPose/valid
+
+kpt_shape: [2, 3]
+
+nc: 1
+names:
+  0: Fruitlet
+
